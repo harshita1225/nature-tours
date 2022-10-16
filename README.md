@@ -1,5 +1,7 @@
 # Nature Tours
 
+### Design credis :Jonas Schmedtmann
+
 ## Link
 
 - Live Site URL: [https://harshita1225.github.io/nature-tours/](https://harshita1225.github.io/nature-tours/)
@@ -71,6 +73,6 @@
 - Desktop layout
 - Custom Fonts
 
-## Author
+## Recreated by
 
 - Website - [Harshita Joshi-Github](https://github.com/harshita1225)

@@ -22,15 +22,15 @@
 
 ## Overview
 
-### The challenge
+### Project specifications
 
-- Clone the Spotify Website using only Tailwind CSS
+- Developing Css architecture using SASS
 
-- View the optimal layout for the site depending on their device's screen size
+- handing images to be responsive
 
-- See hover states for all interactive elements on the page
+- adding hover effects, card designing and rotating using CSS animations
 
-- Create a responsive page based on the screenshots using flex and media queries
+- Create a responsive page based using flex, grid and media queries
 
 - Notice:
 
@@ -52,11 +52,10 @@
 
 ## My process
 
-- Home Page
-- Download Page
-- Sign up Page
-- Sign in Page
+- Header
 - Nav bar
+- Main section
+- Card components
 - Footer
 
 ### Built with
